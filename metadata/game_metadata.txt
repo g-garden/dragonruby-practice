@@ -1,0 +1,6 @@
+devid=g_gardern
+devtitle=ryu
+gameid=target-practice
+gametitle=Target Practice
+version=0.1
+icon=metadata/icon.png
